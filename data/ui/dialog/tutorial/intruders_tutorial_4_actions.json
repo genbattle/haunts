@@ -99,7 +99,7 @@
       [
         {
           "Next": "Start8",
-          "Text": "If the square is red, it his out of range. If it is white, anything within its area, maybe even other Intruders, will be hit by the attack.",
+          "Text": "If the square is red, it is out of range. If it is white, anything within its area, maybe even other Intruders, will be hit by the attack.",
           "Image":
           {
             "Path": "ui/dialog/tutorial/aoe_no.png"

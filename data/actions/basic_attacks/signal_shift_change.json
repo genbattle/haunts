@@ -6,7 +6,7 @@
     "Path": "actions/icons/device.png"
   },
   "Sounds"   : {
-    "activate": "Haunts/SFX/Denizens/Evil Genius/Activate"
+    "activate": "Haunts/SFX/Denizens/Bosses/Evil Genius/Activate"
   },
   "Ap"       : 7,
   "Strength" : 30,

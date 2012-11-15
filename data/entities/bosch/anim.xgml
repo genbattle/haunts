@@ -521,7 +521,7 @@ time:150</attribute>
 		<section name="node">
 			<attribute key="id" type="int">24</attribute>
 			<attribute key="label" type="String">prepare_visions_01
-func:blast</attribute>
+func:visions</attribute>
 			<section name="graphics">
 				<attribute key="x" type="double">488.7582702636719</attribute>
 				<attribute key="y" type="double">140.0791015625</attribute>
@@ -533,7 +533,7 @@ func:blast</attribute>
 			</section>
 			<section name="LabelGraphics">
 				<attribute key="text" type="String">prepare_visions_01
-func:blast</attribute>
+func:visions</attribute>
 				<attribute key="fontSize" type="int">12</attribute>
 				<attribute key="fontName" type="String">Dialog</attribute>
 				<attribute key="anchor" type="String">c</attribute>
