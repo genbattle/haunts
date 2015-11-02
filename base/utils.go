@@ -2,7 +2,7 @@ package base
 
 import (
   "bytes"
-  "code.google.com/p/freetype-go/freetype/truetype"
+  "github.com/iand/freetype-go"
   "encoding/base64"
   "encoding/gob"
   "encoding/json"
